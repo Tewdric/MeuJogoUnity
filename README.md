@@ -26,5 +26,5 @@ Este é um jogo simples desenvolvido com Unity. O jogo tem como objetivo a colis
    ```bash
    [git clone https://github.com/SeuUsuario/MeuJogoUnity.git](https://github.com/Tewdric/MeuJogoUnity)
 2. Arquivo de execução:
-  Após clonar o repositório, verifique se há um arquivo Unity com o nome "Jogo". se sim, clique duas vezes para executa-lo.
+  Após clonar o repositório, verifique se há um arquivo Unity com o nome "Teste_estágio". se sim, clique duas vezes para executa-lo.
   
