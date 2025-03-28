@@ -1,0 +1,20 @@
+# Unity
+Library/
+Temp/
+Obj/
+Build/
+Logs/
+
+# Ignorar arquivos de configuração da IDE (Visual Studio, JetBrains, etc.)
+.vs/
+.idea/
+
+# Arquivos temporários
+*.bak
+*.swp
+
+# Arquivos de log
+*.log
+
+# Ignorar pacotes do Unity (se você estiver usando)
+*.unitypackage
